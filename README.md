@@ -6,6 +6,9 @@ Poryecto Final del primer año de la carrera d ela licenciatura en tecnologias d
 Para descargar el proyecto por https:
 git clone https://github.com/d-bozz/ProyectoFinal
 
+Para descargar por SSH:
+git clone git@github.com:d-bozz/ProyectoFinal.git
+
 #Construido con 🛠️
 * SQL Server 
 * Java
